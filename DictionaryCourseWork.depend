@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1579041718 source:d:\projectsc\Мой упражнения\dictionarycoursework\main.c
+	"DictionaryCourseWork.h"
+
+1579041190 d:\projectsc\Мой упражнения\dictionarycoursework\dictionarycoursework.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
